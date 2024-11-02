@@ -3,7 +3,7 @@
   </script>
   
   <main>
-	<h1>Aperol TGIF </h1>
+	<h1>Drunken Snake</h1>
 	<SnakeGame />
   </main>
   
