@@ -114,7 +114,7 @@
     grid-template-rows: repeat(20, 60px);
     gap: 2px; /* Adjust the gap between cells for better appearance */
     border: 2px solid #333;
-    background-color: ##cd72f4;
+    background-color: #cd72f4;
   }
 
   .cell {
