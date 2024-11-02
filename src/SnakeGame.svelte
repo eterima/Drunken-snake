@@ -32,7 +32,7 @@
     clearInterval(gameInterval);
     snake = [...initialSnake];
     aperol = getRandomPosition();
-    score = 4;
+    score = 0;
     direction = directions.ArrowRight;
     isGameOver = false;
 
